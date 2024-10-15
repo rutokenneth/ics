@@ -1,5 +1,7 @@
+// Kenneth Ruto Kimutai SCT211-0029/2021
 #include <stdio.h>
 #include <unistd.h>
+#include<sys/types.h>
 
 int main(){
     int c = 5;
